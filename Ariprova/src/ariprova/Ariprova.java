@@ -18,6 +18,7 @@ public class Ariprova {
     public static void main(String[] args) {
         // TODO code application logic here
         String ciaodaNetbeans= "";
+        int nothingToAdd;
     }
     
 }
